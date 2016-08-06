@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 256">
+  <defs>
+    <style>
+      .a{fill:#282a2d;}.b{fill:url(#a);}.c{fill:url(#b);}.d{fill:url(#c);}.e{fill:url(#d);}.f{fill:url(#e);}.g{fill:#f6c017;}.h{fill:url(#f);}.i{fill:url(#g);}.j{fill:url(#h);}.k{fill:url(#i);}.l{fill:url(#j);}
+    </style>
+    <linearGradient id="a" x1="156.31" x2="156.31" y1="269.98" y2="30.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e7a7c"/>
+      <stop offset="1" stop-color="#525e60"/>
+    </linearGradient>
+    <linearGradient id="b" x1="156.31" x2="156.31" y1="167.9" y2="205.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#212626"/>
+      <stop offset="1" stop-color="#212626" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="c" x1="156.31" x2="156.31" y1="195.77" y2="134.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="d" x1="138.89" x2="138.89" y1="130.32" y2="103.72" xlink:href="#a"/>
+    <linearGradient id="e" x1="173.73" x2="173.73" y1="130.32" y2="103.72" xlink:href="#a"/>
+    <linearGradient id="f" x1="66.73" x2="66.73" y1="99.87" y2="51.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fccf10"/>
+      <stop offset="1" stop-color="#fccf10" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g" x1="90.13" x2="90.13" y1="117.13" y2="168.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ea961c"/>
+      <stop offset="1" stop-color="#ea961c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="h" x1="122.17" x2="122.17" y1="201.08" y2="104.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="i" x1="138.89" x2="138.89" y1="76.81" y2="203.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#212626" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#212626"/>
+    </linearGradient>
+    <linearGradient id="j" x1="104.17" x2="104.17" y1="198.43" y2="115.12" xlink:href="#i"/>
+  </defs>
+  <path d="M274.9 155.76v6.85c0 9.5 3.07 14.8 10.26 14.8 7.53 0 9.93-6.3 9.93-15.9 0-12.6-2.8-17.1-15.1-26.7-12.2-9.6-18.7-15.7-18.7-32.5 0-14.9 4.4-29.4 24-29.4 19.3 0 23.3 13.56 23.3 26.9v5.68h-15.3V100c0-8.56-1.6-14-8.3-14s-8.4 5.82-8.4 14c0 9.08 1.7 13.18 12 20.72 16.6 12.3 21.8 19.5 21.8 38.5 0 16.1-5.3 31.16-25.7 31.16-20 0-25.2-12.84-25.2-27.9v-6.7h15.23zm96.1-51.9V159c0 21.23-8.9 31.33-27.23 31.33-18.15 0-25.86-10.8-25.86-31.16V103.7c0-20.9 10.1-30.82 26.9-30.82 17.1 0 26.2 10.62 26.2 31zm-37.33-1.36v58.4c0 11 3.94 15.57 10.8 15.57 7.35 0 11-4.45 11-15.92v-58c0-10.45-3.44-15.75-11-15.75-7.23-.05-10.82 4.92-10.82 15.7zm95.38 52.74v4.1c0 13.7-2.4 31-25.17 31-20.55 0-24.66-13.52-24.66-30.64v-57.88c0-18 8-28.94 25-28.94 20.38 0 24.3 13.87 24.3 29.45v4.8h-15.4v-6.52c0-8.2-1.7-13.8-9.06-13.8-7 0-9.07 5.3-9.07 14v60.1c0 9.1 1.8 15.6 9.4 15.6 7.3 0 9.1-6.1 9.1-15.6v-5.6H429zm8.25-80.82h15.07v53.08h.17c4.62-11 15.4-36.8 22.26-53.08h17l-21.23 44.86 22.77 69.52H476.5l-16.43-53.6-7.7 15.8v37.8H437.3V74.42zm101.9 60.78h-25.33v39.56h28.93l-1.88 14h-42.47V74.42h42.12v14.2h-26.7v32.54h25.34v14zm25.18-46.57h-18.5v-14.2h52.22v14.2h-18.48V188.8h-15.24V88.63z" class="a"/>
+  <path d="M219 171.14C219.33 194 205.08 207 182.55 207h-52.5c-22.52 0-36.77-12.94-36.46-35.84V96.43c0-22.53 12.9-40.76 35.8-40.45h53.7c22.9-.32 35.8 17.9 35.8 40.45v74.72z" class="b"/>
+  <path d="M198.45 168.08c.2 15.4-9.37 24.08-24.5 24.08h-35.28c-15.14 0-24.72-8.7-24.5-24.08" class="c"/>
+  <path d="M198.45 164.1c.2 15.4-9.37 24.08-24.5 24.08h-35.28c-15.14 0-24.72-8.7-24.5-24.08v-62.15c0-15.14 8.7-27.4 24.07-27.18h36.12c15.4-.2 24.08 12 24.08 27.18v62.15z" class="d"/>
+  <path d="M130.18 137.6h17.42v-37.3L130.18 123v14.6" class="e"/>
+  <path d="M165.02 100.3h17.42v37.3h-17.42z" class="f"/>
+  <path d="M62.36 211.38L85 139.16H24.35l21.5-94.4h54.42l-26.9 55.54h74.24L62.4 211.38" class="g"/>
+  <path d="M73.37 100.3l26.9-55.53H45.84l-12.64 55.5 40.17.03" class="h"/>
+  <path d="M85 139.03h32.9l-55.54 72.35L85 139.03" class="i"/>
+  <path d="M114.76 170.62l15.42-33V123l-16 20.86v20.24a30.88 30.88 0 0 0 .58 6.52z" class="j"/>
+  <path d="M130.18 123v14.6l17.42-37.3-17.42 22.7" class="k"/>
+  <path d="M114.17 164.1v-20.23l-20.58 26.8v.47c-.2 11 3 19.63 8.9 25.7l12.2-26.22a30.88 30.88 0 0 1-.6-6.52z" class="l"/>
+</svg>
