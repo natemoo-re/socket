@@ -1,4 +1,4 @@
-![Socket Logo](https://raw.githubusercontent.com/natemoo-re/socket/master/docs/socket_logo.svg)
+![Socket Logo](https://raw.githubusercontent.com/natemoo-re/socket/master/docs/socket-logo.svg)
 <p align="center">Supercharged plugin management for Sketch</p>
 
 ===
