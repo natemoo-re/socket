@@ -1,0 +1,29 @@
+{
+  "name": "🔌 Socket",
+  "description": "A super-charged plugin manager for Sketch",
+  "author": "Nate Moore",
+  "authorEmail": "nate@natemoo.re",
+  "homepage": "http://socket.community/plugin",
+  "version": "0.1.0",
+
+  "identifier": "dev.natemoo-re.socket",
+  "updateURL": "https://raw.githubusercontent.com/natemoo-re/socket/master/Socket.sketchplugin/Contents/Sketch/manifest.json",
+  "compatibleVersion": 3,
+
+  "commands": [
+    {
+        "name": "Test",
+        "identifier": "command_test",
+        "shortcut": "cmd shift t",
+        "script": "commands.js",
+        "handler": "command_test"
+    }
+  ],
+
+  "menu": {
+    "title": "🔌 Socket",
+    "items": [
+      "command_test"
+    ]
+  }
+}
